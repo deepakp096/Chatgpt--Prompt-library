@@ -1,0 +1,54 @@
+< prompt_Examples
+-----------------------
+
+1 Prompt to write and email response. :- / Below is the prompt showing the formal email prompt for a Export company to request a potential buyers list from the US-High commission of india, explaining the needs and potential of increasing trade between the countries.
+---------------------------------------------
+Write a formal email, reflecting requesting tone, sound potential business and opportunity,  US high commission of India, requesting updated traders list, Explaining what is my company (Balraj Exports -Carpets and rugs), why i need the list? etc.. Also keep output short and concise with 2 -3  paragraphs, 100 words only.
+--------------------------------------------------------
+( 
+
+Subject: Request for Updated List of US-Based Carpet and Rug Importers
+
+Dear Sir/Madam,
+
+I represent Balraj Exports, a reputed Indian manufacturer and exporter of premium carpets and rugs. With a strong track record in global markets, we are now aiming to expand our presence in the United States. To explore potential trade partnerships, we respectfully request an updated list of US-based carpet and rug importers or relevant trade contacts.
+
+This information will support our efforts to engage in mutually beneficial trade, promote Indian craftsmanship, and strengthen bilateral business ties. We sincerely appreciate your assistance and look forward to your kind support.
+
+Warm regards,
+[Your Full Name]
+Balraj Exports
+[Your Contact Details]
+
+)
+
+2)
+ Prompt that helps a business to generate product descriptions for a Mobile phone (Realme PowerMax 16")
+--------------------------------------------------------
+ you are a professional product copywriter, write a concise and persuasive product copywriting for a Realme Mobile, display 16 inch, AI smart camera (Back 12 px, Ai smart -2 px, Front 48 px), Octacore processor, Double dragon 1.01 android, GPU-12 hz, IP-8 (water resistance), 6000 mha battery (last for 48 hrs), best phone for gamer performance. Highest benchmark in the category, Focus on affordability, size, shape, comfortable to user, durability, high performance reliability, Keep it under 100 words.
+
+OR 
+
+you are a professional product copywriter, write a concise and persuasive product copywriting for a Realme Mobile, display 16 inch, AI smart camera (Back 12 px, Ai smart -2 px, Front 48 px), Octacore processor, Double dragon 1.01 android, GPU-12 hz, IP-8 (water resistance), 6000 mha battery (last for 48 hrs), best phone for gamer performance. Highest benchmark in the category, Focus on affordability, size, shape, comfortable to user, durability, high performance reliability, Available in 3 colors  stylish metallic RED, Deepsea Blue, Galaxy black, Keep it under 100 words.
+-----------------------------------------------
+(
+
+**Realme PowerMax 16" – Game On, Anywhere**
+
+Unleash peak performance with the **Realme PowerMax**—a sleek 16" powerhouse built for gamers. Powered by an Octa-core processor, **Double Dragon 1.01 Android**, and **GPU-12Hz**, it delivers ultra-smooth gameplay and unmatched speed. Capture every moment with its **AI Smart Camera** (Back 12MP + 2MP AI, Front 48MP). With **6000mAh battery** lasting up to **48 hours**, **IP-8 water resistance**, and a durable yet comfortable design, it's your go-to for high-performance reliability. All this at an ultra-affordable price.
+
+**Realme PowerMax** – **Big Display. Bold Power. Built for Gamers.**
+
+ OR 
+
+**Realme PowerMax 16" – Power Meets Style**
+
+Experience unbeatable performance with the **Realme PowerMax 16"**, designed for serious gamers and smart users. Featuring a vibrant **16" display**, **Octa-core processor**, **GPU-12Hz**, and **Double Dragon 1.01 Android**, it delivers the **highest benchmark** in its class. The **AI Smart Camera** (12MP + 2MP rear, 48MP front) captures brilliance, while the **6000mAh battery** powers you for **48 hours** straight. With **IP-8 water resistance**, ergonomic design, and stunning durability, it's built to last.
+
+Available in **Metallic Red**, **Deepsea Blue**, and **Galaxy Black**—**premium performance, surprisingly affordable**.
+
+)
+
+----------------------------------------------------------
+
+>
